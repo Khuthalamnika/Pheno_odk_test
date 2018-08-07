@@ -6,7 +6,7 @@
 
 ## Versions
 
-### Stable release versions
+### Khuthala Stable release versions
 
 The ontologies hosted here are not released to any PURLs.
 
